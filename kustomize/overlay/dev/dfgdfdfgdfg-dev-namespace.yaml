@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: dfgdfdfgdfg-dev
+  labels:
+    environment-id: env_5e79121c-404a-45b0-b63a-b910e29619bc
+    project-id: project_61800c1e-4c0b-4803-832d-be9a00f87826
+    project-name: dfgdfdfgdfg
+    environment-name: dev
+    organization-id: org_be4d5edb-d461-4f1a-8ae1-400374fa4c67
